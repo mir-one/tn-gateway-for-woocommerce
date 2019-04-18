@@ -1,0 +1,42 @@
+.tn-address, .tn-amount{
+	display: block;
+	text-align: center;
+	margin: 0 !important;
+}
+.tn-label{
+	display: block;
+	text-align: center;
+	font-size: 80%;
+	text-transform: uppercase;
+}
+.separator{
+	display:block;
+	margin-top: 1em;
+}
+.tn-logo{
+	margin: 0 auto;
+}
+.tn-container{
+	text-align: center;
+}
+.tn-description{
+	font-size: 80%;
+	text-align: center;
+}
+
+#tn-qr-code{
+	display: block;
+	width: 208px;
+	height: 208px;
+	border: 1px solid #000;
+	padding: 3px;
+	margin:0 auto;
+}
+.copy{
+	text-decoration: underline;
+	cursor: pointer;
+	font-weight: 600;
+}
+.small{
+	font-size: 80%;
+}
