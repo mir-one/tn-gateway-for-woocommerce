@@ -22,11 +22,15 @@ Display prices in TN or token and let your clients pay through the TurtleNetwork
 
 ![Payment methods in Woocommerce](https://raw.githubusercontent.com/mir-one/tn-gateway-for-woocommerce/master/screenshot-1.png)
 _Payment methods in Woocommerce_
+
 ![TurtleNetwork payments](https://raw.githubusercontent.com/mir-one/tn-gateway-for-woocommerce/master/screenshot-2.png)
 _TurtleNetwork payments_
+
 ![QR-code/address/attachment for your order](https://raw.githubusercontent.com/mir-one/tn-gateway-for-woocommerce/master/screenshot-3.png)
 _QR-code/address/attachment for your order_
+
 ![Order has been received](https://raw.githubusercontent.com/mir-one/tn-gateway-for-woocommerce/master/screenshot-4.png)
 _Order has been received_
+
 ![Tx from explorer TurtleNetwork](https://raw.githubusercontent.com/mir-one/tn-gateway-for-woocommerce/master/screenshot-5.png)
 _Tx from explorer TurtleNetwork_
