@@ -1,8 +1,8 @@
 # TurtleNetwork Gateway for Woocommerce
 
-Show prices in TN or any other token on TurtleNetwork and accept payments with that token your woocommerce webshop
+Show prices in TN or any other token on TurtleNetwork and accept payments with that token your Woocommerce webshop
 
-### Display prices in TN or token and let your clients pay through the TurtleNetwork client software. Built on top of Ripple Gateway developed by Casper Mekel and uses Base58 library developed by Stephen Hill for encoding and decoding. 
+Display prices in TN or token and let your clients pay through the TurtleNetwork client software. Built on top of Ripple Gateway developed by Casper Mekel and uses Base58 library developed by Stephen Hill for encoding and decoding. 
 
 * Display prices in TN or token in store and on checkout
 * Prices are calculated based on TurtleNetwork DEX rate
@@ -21,11 +21,12 @@ Show prices in TN or any other token on TurtleNetwork and accept payments with t
 ### Screenshots
 
 ![Payment methods in Woocommerce](https://raw.githubusercontent.com/mir-one/tn-gateway-for-woocommerce/master/screenshot-1.png)
-
+_Payment methods in Woocommerce_
 ![TurtleNetwork payments](https://raw.githubusercontent.com/mir-one/tn-gateway-for-woocommerce/master/screenshot-2.png)
-
+_TurtleNetwork payments_
 ![QR-code/address/attachment for your order](https://raw.githubusercontent.com/mir-one/tn-gateway-for-woocommerce/master/screenshot-3.png)
-
+_QR-code/address/attachment for your order_
 ![Order has been received](https://raw.githubusercontent.com/mir-one/tn-gateway-for-woocommerce/master/screenshot-4.png)
-
+_Order has been received_
 ![Tx from explorer TurtleNetwork](https://raw.githubusercontent.com/mir-one/tn-gateway-for-woocommerce/master/screenshot-5.png)
+_Tx from explorer TurtleNetwork_
