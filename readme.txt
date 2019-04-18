@@ -16,7 +16,7 @@ Display prices in TN or token and let your clients pay through the TurtleNetwork
 
 * Display prices in TN or token in store and on checkout
 * Prices are calculated based on TurtleNetwork DEX rate
-* Links can be copied by clicking and a QR code is supplied which can be used in the TurtleNetwork wallet app op iOS and Android
+* Links can be copied by clicking and a QR code is supplied which can be used in the TurtleNetwork wallet app Android
 * Countdown refreshes form each 10 minutes, updating amounts using the most recent conversion reate
 * Matches payments on (encoded) attachment and amount
 * Checkout page is automatically refreshed after a successful payment 
